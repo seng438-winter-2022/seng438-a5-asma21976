@@ -19,7 +19,7 @@ Our team used C-FRAT for this section, as STRAT does not work for mac users. The
 ![1](/media/1.jpg)
 *Figure 1: Failure VS. Time Interval*
 
-The 8 simulations are run first, using the E, F as covariates:
+The 8 simulations are ran first, using the E, F as covariates:
 ![2](/media/2.jpg)
 *Figure 2: RGT Models for Covariate Failure Data*
 
@@ -41,17 +41,19 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 ![7](/media/7.jpg)
 *Figure 7: Isolated Best-Fit RGT Models*
 
+
+
+*TALK ABT LAPLACE TESTING RESULTS*
 # Assessment Using Reliability Demonstration Chart 
 
-# 
 
 # Comparison of Results
+The SUT seems to be reliable in the sense that both the Relaibiltiy Growth Testing and the Relaibility Demo Chart gave the same results. The overall system remains reliable and all the failure data is used.
 
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
 
-# 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
