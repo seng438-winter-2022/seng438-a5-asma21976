@@ -10,8 +10,6 @@
 | Tom Altankhuyag  |  30100861   |
 
 # Introduction
-
-# 
 The purpose of this assignment is to give us hands-on experience on assessing the reliability of a hypothetical system given all the failure data gathered from the integration testing. We are required to install a reliability growth assessment tool, such as CASRE or STRAT, and create plots of failure rate and reliability of SUT. 
 After completing this lab, we gained an understanding of what reliability growth testing is. We are also able to measure failure rate, MTTF and reliability of the SUT through analyzing the test data. Lastly, we became familiar with the features and usages of a reliability growth testing too.
 
@@ -41,7 +39,7 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 *Figure 6: RGT Models on Failure Intensity Graph*
 
 ![7](/media/7.jpg)
-*Figure 7: Isolated Best-Fit RGT Models
+*Figure 7: Isolated Best-Fit RGT Models*
 
 # Assessment Using Reliability Demonstration Chart 
 
