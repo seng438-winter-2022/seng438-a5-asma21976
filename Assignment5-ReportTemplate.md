@@ -19,20 +19,29 @@ After completing this lab, we gained an understanding of what reliability growth
 Our team used C-FRAT for this section, as STRAT does not work for mac users. The failure data was imported first. The imported data includes, IFRSB, IFRGSB, S, GM, DW2, DW3, NB2, and TL. The software generated a Total Cumulative Failure vs Time interval graph:
 
 ![1](/media/1.jpg)
+*Figure 1: Failure VS. Time Interval*
 
-
+The 8 simulations are run first, using the E, F as covariates:
 ![2](/media/2.jpg)
+*Figure 2: RGT Models for Covariate Failure Data*
 
-
+This is the model comparison data:
 ![3](/media/3.jpg)
+*Figure 3: Model Comparison Data*
 
+For this graph, we compared several models to see which was closely followed the pattern of failures on the different time intervals. When going through the models, we noticed that IFRGSB is the top model and GM is the second best. This models were shifted from S, GM, TL on AIC, BIC, SSE, and PSSE. 
 ![4](/media/4.jpg)
+*Figure 4: Best-Fit RGT Models*
 
+C-STRAT allows us to view models and data in different formats. Here we see a bar graph for the failure intensity(x-axis) VS time(y-axis).  
 ![5](/media/5.jpg)
+*Figure 5: Failure Intensity Graph*
 
 ![6](/media/6.jpg)
+*Figure 6: RGT Models on Failure Intensity Graph*
 
 ![7](/media/7.jpg)
+*Figure 7: Isolated Best-Fit RGT Models
 
 # Assessment Using Reliability Demonstration Chart 
 
