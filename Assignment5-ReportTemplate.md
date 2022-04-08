@@ -18,6 +18,22 @@ After completing this lab, we gained an understanding of what reliability growth
 # Assessment Using Reliability Growth Testing 
 Our team used C-FRAT for this section, as STRAT does not work for mac users. The failure data was imported first. The imported data includes, IFRSB, IFRGSB, S, GM, DW2, DW3, NB2, and TL. The software generated a Total Cumulative Failure vs Time interval graph:
 
+![1](/media/1.jpg)
+
+
+![2](/media/2.jpg)
+
+
+![3](/media/3.jpg)
+
+![4](/media/4.jpg)
+
+![5](/media/5.jpg)
+
+![6](/media/6.jpg)
+
+![7](/media/7.jpg)
+
 # Assessment Using Reliability Demonstration Chart 
 
 # 
