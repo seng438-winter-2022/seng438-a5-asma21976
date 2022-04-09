@@ -94,3 +94,4 @@ The major difficulty we had found is using the softwares/tools provided for the 
 The group has gotten more comfortable and familiar with the tools (SRTAT & RDC), but more guidance and hands on experience would be preffered.
 
 # Comments/feedback on the lab itself
+To reduce the challenges we all had to confront, it would be more efficient for all students if the lab software was compatible with all operating systems. Furthermore, more instructions would have been beneficial in helping us grasp how the instruments operated and what their outcomes indicated. When requested to utilise a new tool, learning how to use it without sufficient instructions is incredibly difficult and time-consuming.
