@@ -59,7 +59,7 @@ In terms of the charts, we chose the following parameters:
 * User's Risk: 0.150
 We chose these numbers to match the RDC Preview to the predfined parameters in the R-Demo-Chart.
 
-In RDC testing, we can see that the system passes. This is under the assumption of a base failure intensity objective of 406 failures / 1000 events. However, since the system barely is in the acceptance range, the develops may elect to continue to test the system.
+In RDC testing, we can see that the system passes. This is under the assumption of a base failure intensity objective of 406 failures / 1000 events. However, since the system barely is in the acceptance range, the develops may elect to continue to test the system. Nonetheless, based on the parameters, the system passes and is ground for it to be pushed into release or the next phase of development.
 
 
 ![10](/media/RDC_colours_doubleMTTF.PNG)  
@@ -68,9 +68,7 @@ In RDC testing, we can see that the system passes. This is under the assumption 
 ![11](/media/RDC_colours_halfMTTF.PNG)  
 *Figure 11: Reliability Demo Chart with Half MTTF*
 
-When halfing the number of events, effectively halfing the MTTF, we can see that the system is well into the acceptance region. This means the system is reliabily accepted.
-
-When doubling the MTTF, the system is rejected. In this scenairo, the developers either need to scrap the project or continue development of the system to get within reliability specifications.
+When halfing the number of events, effectively halfing the MTTF, we can see that the system is well into the acceptance region. This means the system is reliabily accepted. When doubling the MTTF, the system is rejected. In this scenairo, the developers either need to scrap the project or continue development of the system to get within reliability specifications. Usually this is done by testing specfic components of the system to see its failure rate. The developers can then build redundancy into the system if the component is prone to failure by its nature or just engineer a better solution.
 
 
 # Comparison of Results
