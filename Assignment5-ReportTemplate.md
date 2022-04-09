@@ -53,8 +53,12 @@ The SUT seems to be reliable in the sense that both the Relaibiltiy Growth Testi
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-
+We have divided the workload between the four members into pairs of two, each tackling part 1 and part 2. 
+In the report, the respective pairs will write their own reports and findings in the lab report.
+After everyone reports their findings, we can decide and compare the results and conclude our findings.
 
 # Difficulties encountered, challenges overcome, and lessons learned
+The major difficulty we had found is using the softwares/tools provided for the lab. The instructions at a lot of times were unclear to our group and major assumptions were needed to continue on. The major challenges were definitely getting familiar with the tools that were provided, and manipulating the RDC data to retrieve the desired graphs.
+The group has gotten more comfortable and familiar with the tools (SRTAT & RDC), but more guidance and hands on experience would be preffered.
 
 # Comments/feedback on the lab itself
