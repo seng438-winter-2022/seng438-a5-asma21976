@@ -52,6 +52,10 @@ The SUT seems to be reliable in the sense that both the Relaibiltiy Growth Testi
 
 # Discussion on Similarity and Differences of the Two Techniques
 
+RDC and RGT are different in that they prioritze different data in order to calculate the reliability of the SUT. For example, in RDC will use MTTF alongside risk of the parties involved to suggest the course of action for reliability of the SUT. Additionally, the RDC provides limited options as to how to view the data. This is because in order to do RDC, the raw data can be inputted into the excel sheet and an RDC graph will appear. However, for RDT the data needs to be prepared and formatted. This pays off because the resulting output is more informative and can be displayed in multiple different formats.
+
+The two techniques are similar, first and foremost, in that that they assess the reliability of the SUT. Although the data needed to be modified, RDC and RDT can generally use the same failure data. 
+
 # How the team work/effort was divided and managed
 
 
