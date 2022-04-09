@@ -85,7 +85,7 @@ RDC and RGT are different in that they prioritze different data in order to calc
 The two techniques are similar, first and foremost, in that that they assess the reliability of the SUT. Although the data needed to be modified, RDC and RDT can generally use the same failure data. 
 
 # How the team work/effort was divided and managed
-We have divided the workload between the four members into pairs of two, each tackling part 1 and part 2. 
+First we had to note which tool works best for which member. Then, we have divided the workload between the four members into pairs of two, each tackling part 1 and part 2. 
 In the report, the respective pairs will write their own reports and findings in the lab report.
 After everyone reports their findings, we can decide and compare the results and conclude our findings.
 
