@@ -2,7 +2,7 @@
 
 **Lab. Report \#5 – Software Reliability Assessment**
 
-| Group \#:       |   |
+| Group \#:       |  12 |
 |-----------------|---|
 | Student Names:  |   |
 | Asma Hashmi     |30093995|
@@ -47,6 +47,7 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 # Assessment Using Reliability Demonstration Chart 
 
 ![8](/media/RDC_colours.PNG)  
+
 *Figure 8: Reliability Demo Chart*
 
 ![9](/media/RDC_Preview.PNG)  
