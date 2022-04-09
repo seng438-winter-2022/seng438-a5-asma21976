@@ -46,10 +46,10 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 *TALK ABT LAPLACE TESTING RESULTS*
 # Assessment Using Reliability Demonstration Chart 
 
-![8](/media/RDC_colours.PNG)
+![8](/media/RDC_colours.PNG)  
 *Figure 8: Reliability Demo Chart*
 
-![9](/media/RDC_Preview.PNG)
+![9](/media/RDC_Preview.PNG)  
 *Figure 9: Preview of Reliability Demo Chart*
 
 
@@ -62,10 +62,10 @@ We chose these numbers to match the RDC Preview to the predfined parameters in t
 In RDC testing, we can see that the system passes. This is under the assumption of a base failure intensity objective of 406 failures / 1000 events. However, since the system barely is in the acceptance range, the develops may elect to continue to test the system.
 
 
-![10](/media/RDC_colours_doubleMTTF.PNG)
+![10](/media/RDC_colours_doubleMTTF.PNG)  
 *Figure 10: Reliability Demo Chart with Double MTTF*
 
-![11](/media/RDC_colours_halfMTTF.PNG)
+![11](/media/RDC_colours_halfMTTF.PNG)  
 *Figure 11: Reliability Demo Chart with Half MTTF*
 
 When halfing the number of events, effectively halfing the MTTF, we can see that the system is well into the acceptance region. This means the system is reliabily accepted.
