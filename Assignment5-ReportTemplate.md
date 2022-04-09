@@ -50,6 +50,8 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 # Comparison of Results
 The SUT seems to be reliable in the sense that both the Relaibiltiy Growth Testing and the Relaibility Demo Chart gave the same results. The overall system remains reliable and all the failure data is used.
 
+In RDC, we can see that the system is borderline in the acceptance range. Thus, it would be up to the client and developers to further test the system or just leave it as is for release. In RGT, there model is model comparision data on top of the many visuals provided. Using this in conjunction with RDC may be able to provide this extra perspective that the develops and clients need.
+
 # Discussion on Similarity and Differences of the Two Techniques
 
 RDC and RGT are different in that they prioritze different data in order to calculate the reliability of the SUT. For example, in RDC will use MTTF alongside risk of the parties involved to suggest the course of action for reliability of the SUT. Additionally, the RDC provides limited options as to how to view the data. This is because in order to do RDC, the raw data can be inputted into the excel sheet and an RDC graph will appear. However, for RDT the data needs to be prepared and formatted. This pays off because the resulting output is more informative and can be displayed in multiple different formats.
