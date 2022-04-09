@@ -42,9 +42,12 @@ C-STRAT allows us to view models and data in different formats. Here we see a ba
 ![7](/media/7.jpg)
 *Figure 7: Isolated Best-Fit RGT Models*
 
+We used CASRE to do out Laplace tests. From the laplace tests, it was clear that there was stable reliability with not many high outliers for failures. When we observed the test intervals from 1-18, it was clear that there was a growth in the reliability. From intervals 19-31, the reliability was stable.
 
+In reliability growth testing, target failure rate can be used to determine the number of failures at random intervals in the SUT. 
 
-*TALK ABT LAPLACE TESTING RESULTS*
+The use of the reliability growth models plays an important role in measuring improvements, achieving effective and efficient tests during the course of a project. This was evident in this lab, as it allows us to view different failures. Now, there are many models and tools that can be used, however, this is still not as helpful since failures can occur randomly. Additionally, although all these extensive tools and models are not helpful with failures, they can help with smoothing out the system reliability by looking into the predictability of the tests. Lastly, these reliability growth models do not look into past fixes, therefore making it problematic as these same failures can arise once again.
+
 # Assessment Using Reliability Demonstration Chart 
 
 ![8](/media/RDC_colours.PNG)  
