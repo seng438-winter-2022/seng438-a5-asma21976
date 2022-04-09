@@ -8,6 +8,7 @@
 | Asma Hashmi     |30093995|
 | Hesham Elkaliouby|  30089907   |
 | Tom Altankhuyag  |  30100861   |
+| Hasan Mahtab  |  30102185   |
 
 # Introduction
 The purpose of this assignment is to give us hands-on experience on assessing the reliability of a hypothetical system given all the failure data gathered from the integration testing. We are required to install a reliability growth assessment tool, such as CASRE or STRAT, and create plots of failure rate and reliability of SUT. 
